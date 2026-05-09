@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Funko Pop - Sonic The Hedgehog",
+    "description": "Los juguetes más asombrosos y divertidos para coleccionar están en eMarket Perú. Los juguetes de la marca Funko se volvieron realmente populares gracias a su parecido con personajes de acción, infantiles e inclusive personas reales que se convierten en increíbles caricaturas para coleccionar. Estas figuras de acción basadas en series de tv, comics, películas o videojuegos son ideales para decorar tu hogar u oficina. Adquiérelos para que los pequeños de la casa jueguen y se diviertan recreando las escenas de sus películas favoritas.",
+    "price": 19.99,
+    "image": "images/imagen1.jpg",
+    "rating": 7.0
+  },
+  {
+    "id": 2,
+    "name": "Funko POP - Animation - Inuyasha",
+    "description": "Los juguetes más asombrosos y divertidos para coleccionar están en eMarket Perú. Los juguetes de la marca Funko se volvieron realmente populares gracias a su parecido con personajes de acción, infantiles e inclusive personas reales que se convierten en increíbles caricaturas para coleccionar. Estas figuras de acción basadas en series de tv, comics, películas o videojuegos son ideales para decorar tu hogar u oficina. Adquiérelos para que los pequeños de la casa jueguen y se diviertan recreando las escenas de sus películas favoritas.",
+    "price": 45.99,
+    "rating": 7.0,
+    "image": "images/imagen2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Funko Pop - Movie - Wonka - Willy Wonka",
+    "description": "Los juguetes más asombrosos y divertidos para coleccionar están en eMarket Perú. Los juguetes de la marca Funko se volvieron realmente populares gracias a su parecido con personajes de acción, infantiles e inclusive personas reales que se convierten en increíbles caricaturas para coleccionar. Estas figuras de acción basadas en series de tv, comics, películas o videojuegos son ideales para decorar tu hogar u oficina. Adquiérelos para que los pequeños de la casa jueguen y se diviertan recreando las escenas de sus películas favoritas.",
+    "price": 79.9,
+    "rating": 7.0,
+    "image": "images/imagen3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Funko Pop - Movie - Wonka - Willy Wonka",
+    "description": "Los juguetes más asombrosos y divertidos para coleccionar están en eMarket Perú. Los juguetes de la marca Funko se volvieron realmente populares gracias a su parecido con personajes de acción, infantiles e inclusive personas reales que se convierten en increíbles caricaturas para coleccionar. Estas figuras de acción basadas en series de tv, comics, películas o videojuegos son ideales para decorar tu hogar u oficina. Adquiérelos para que los pequeños de la casa jueguen y se diviertan recreando las escenas de sus películas favoritas.",
+    "price": 79.9,
+    "rating": 7.0,
+    "image": "images/imagen4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Funko Pop - Animation - One Piece - Usopp",
+    "description": "Los juguetes más asombrosos y divertidos para coleccionar están en eMarket Perú. Los juguetes de la marca Funko se volvieron realmente populares gracias a su parecido con personajes de acción, infantiles e inclusive personas reales que se convierten en increíbles caricaturas para coleccionar. Estas figuras de acción basadas en series de tv, comics, películas o videojuegos son ideales para decorar tu hogar u oficina. Adquiérelos para que los pequeños de la casa jueguen y se diviertan recreando las escenas de sus películas favoritas.",
+    "price": 79.9,
+    "rating": 7.0,
+    "image": "images/imagen5.jpg"
+  }
+]

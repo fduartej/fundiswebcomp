@@ -10,7 +10,7 @@ function Header() {
         </div>
 
         <h1 className="text-2xl md:text-3xl font-bold text-white bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
-          Peliculas en La Molina en Oferta
+          Catalogo de Junkos en La Molina en Oferta
         </h1>
 
         <nav id="menu" className="hidden md:flex space-x-8">
@@ -28,7 +28,7 @@ function Header() {
                 href="index.html"
                 className="text-white hover:text-blue-400 font-medium transition-colors duration-200 hover:underline underline-offset-4"
               >
-                Peliculas
+                Junkos
               </a>
             </li>
             <li>
