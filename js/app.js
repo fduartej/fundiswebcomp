@@ -33,10 +33,10 @@ function Header() {
             </li>
             <li>
               <a
-                href="contacto.html"
+                href="contactanos.html"
                 className="text-white hover:text-blue-400 font-medium transition-colors duration-200 hover:underline underline-offset-4"
               >
-                Contacto
+                Contactanos
               </a>
             </li>
             <li>
