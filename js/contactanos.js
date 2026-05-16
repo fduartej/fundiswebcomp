@@ -13,8 +13,40 @@ function ContactForm() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log("Form Data Submitted: ", formData);
-    alert("Gracias por contactarnos, " + formData.name + "!");
+
+    const payload = {
+      Nombre: formData.name,
+      Correo: formData.email,
+      Pais: formData.pais,
+      Mensaje: formData.message,
+    };
+
+    try {
+      const response = fetch(
+        "https://hook.us2.make.com/gdu2y3usmfce7yi73sjyapo2ijvfa6f4",
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(payload),
+        }
+      );
+
+      console.log("Enviado correctamente");
+
+      alert("Gracias por contactarnos, " + formData.name + "!");
+
+      setFormData({
+        name: "",
+        email: "",
+        message: "",
+        pais: "",
+      });
+    } catch (error) {
+      console.error(error);
+      alert("Hubo un problema enviando el formulario");
+    }
   };
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
